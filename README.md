@@ -1,16 +1,18 @@
-## Hi there 👋
+I'm Ziad Tabour, I'm a Computer Science student with a passion for solving problems and building cool things with code.  
+I’m particularly into **Competitive Programming** and love tackling challenging algorithmic problems.
 
-<!--
-**Znno/Znno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Achievements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ACPC 2024 Finalist**
+- **Expert** on [Codeforces](https://codeforces.com/profile/Znno)
+- Continuously learning and exploring new concepts in computer science
+
+---
+
+### Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/ziad-tabour-97b110287/)
+- [Codeforces](https://codeforces.com/profile/Znno)
+- [LeetCode](https://leetcode.com/u/Znno/)
